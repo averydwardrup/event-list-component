@@ -24,7 +24,6 @@ export default {
     data() {
         return {
             events: undefined,
-            time: undefined
         }
     },
     mounted() {
