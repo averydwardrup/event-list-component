@@ -14,14 +14,14 @@ Vue 3 event list component pulling events from The Events Calendar rest API
 ### Import into your view
 
 ````bash
-import ToolCards from '../components/EventsList.vue'
+import EventsList from '../components/EventsList.vue'
 ````
 
 ### Define your component
 
 ````bash
 components: {
-    ToolCards
+    EventsList
 }
 ````
 
